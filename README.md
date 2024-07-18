@@ -47,16 +47,16 @@ This notebook demonstrates how to build a recommendation system for student loan
 
 Ensure you have the required packages installed:
 
-**import pandas as pd
-**import tensorflow as tf
-**import sklearn as skl
-**from tensorflow.keras.layers import Dense
-**from tensorflow.keras.models import Sequential
-**from sklearn.model_selection import train_test_split
-**from sklearn.preprocessing import StandardScaler
-**from sklearn.metrics import classification_report
-**from pathlib import Path
-**from tensorflow.keras.optimizers import Adam, RMSprop, SGD, Adagrad
+- **import pandas as pd
+- **import tensorflow as tf
+- **import sklearn as skl
+- **from tensorflow.keras.layers import Dense
+- **from tensorflow.keras.models import Sequential
+- **from sklearn.model_selection import train_test_split
+- **from sklearn.preprocessing import StandardScaler
+- **from sklearn.metrics import classification_report
+- **from pathlib import Path
+- **from tensorflow.keras.optimizers import Adam, RMSprop, SGD, Adagrad
 
 ##  License
 
