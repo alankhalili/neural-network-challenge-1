@@ -50,6 +50,11 @@ Ensure you have the required packages installed:
 - **import pandas as pd
 - **import tensorflow as tf
 - **import sklearn as skl
+- **import keras_tuner as kt
+- **import numpy as np
+- **import shap
+- **from sklearn.model_selection import cross_val_score
+- **from scikeras.wrappers import KerasClassifier
 - **from tensorflow.keras.layers import Dense
 - **from tensorflow.keras.models import Sequential
 - **from sklearn.model_selection import train_test_split
